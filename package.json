@@ -1,0 +1,28 @@
+{
+  "name": "@quoin/dummy-proxy",
+  "version": "0.1.0",
+  "description": "Dummy proxy to make sure proxy headers are used properly",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Quoin/dummy-proxy.git"
+  },
+  "keywords": [
+    "proxy",
+    "x-forwarded"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Quoin/dummy-proxy/issues"
+  },
+  "homepage": "https://github.com/Quoin/dummy-proxy#readme",
+  "dependencies": {
+    "@quoin/node-rc": "0.1.1",
+    "debug": "2.6.4",
+    "express": "4.15.2",
+    "express-http-proxy": "1.0.1"
+  }
+}
