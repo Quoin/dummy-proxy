@@ -1,6 +1,6 @@
 {
   "name": "@quoin/dummy-proxy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Dummy proxy to make sure proxy headers are used properly",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
